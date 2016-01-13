@@ -18,6 +18,7 @@ esta es la primera clase de git-modificar algo, poniendo cualquier cosa no impor
       git commit -m "message commit"
    ~~~
 4. Inciar el envio de los nuevos cambios al GITHUB
+
    ~~~git
       git push origin --all
    ~~~
