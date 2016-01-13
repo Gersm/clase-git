@@ -12,3 +12,8 @@ esta es la primera clase de git-modificar algo, poniendo cualquier cosa no impor
    ~~~git
       git add <file_name>
    ~~~
+
+3. Comfirmar cambios de los archivos agregados anteriormente
+   ~~~git
+      git commit -m "message commit"
+   ~~~
